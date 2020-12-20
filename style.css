@@ -97,6 +97,11 @@ input[type="search"] {
   padding-bottom: 13px !important;
 }
 /*---------------------------1st part end---------------------------------------------*/
+.container i {
+  margin-left: -30px;
+  cursor: pointer;
+  color: #000;
+}
 
 /*------------------------all media queries-----------------------------*/
 
